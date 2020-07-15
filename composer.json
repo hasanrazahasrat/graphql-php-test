@@ -1,0 +1,12 @@
+{
+    "name": "haider/graphql-test",
+    "authors": [
+        {
+            "name": "Hasan",
+            "email": "hasan.pakistani@gmail.com"
+        }
+    ],
+    "require": {
+        "webonyx/graphql-php": "^14.0"
+    }
+}
